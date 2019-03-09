@@ -1,0 +1,5 @@
+*.pyc
+*.txt
+*.log
+/env/
+z2back.py
